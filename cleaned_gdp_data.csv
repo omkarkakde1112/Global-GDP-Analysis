@@ -1,0 +1,1160 @@
+Country,Year,GDP,Continent,GDP Growth %
+Afghanistan,2020,20136,Asia,0.0
+Afghanistan,2021,14278,Asia,-29.09
+Afghanistan,2022,14501,Asia,1.56
+Afghanistan,2023,17248,Asia,18.94
+Albania,2020,15271,Europe,0.0
+Albania,2021,18086,Europe,18.43
+Albania,2022,19185,Europe,6.08
+Albania,2023,23388,Europe,21.91
+Albania,2024,27259,Europe,16.55
+Albania,2025,28372,Europe,4.08
+Algeria,2020,164774,Africa,0.0
+Algeria,2021,185850,Africa,12.79
+Algeria,2022,225709,Africa,21.45
+Algeria,2023,247789,Africa,9.78
+Algeria,2024,264913,Africa,6.91
+Algeria,2025,268885,Africa,1.5
+Andorra,2020,2885,Europe,0.0
+Andorra,2021,3325,Europe,15.25
+Andorra,2022,3376,Europe,1.53
+Andorra,2023,3786,Europe,12.14
+Andorra,2024,4038,Europe,6.66
+Andorra,2025,4035,Europe,-0.07
+Angola,2020,66521,Africa,0.0
+Angola,2021,84375,Africa,26.84
+Angola,2022,142442,Africa,68.82
+Angola,2023,109764,Africa,-22.94
+Angola,2024,115946,Africa,5.63
+Angola,2025,113343,Africa,-2.25
+Antigua and Barbuda,2020,1412,North America,0.0
+Antigua and Barbuda,2021,1602,North America,13.46
+Antigua and Barbuda,2022,1867,North America,16.54
+Antigua and Barbuda,2023,2006,North America,7.45
+Antigua and Barbuda,2024,2225,North America,10.92
+Antigua and Barbuda,2025,2373,North America,6.65
+Argentina,2020,385218,South America,0.0
+Argentina,2021,486040,South America,26.17
+Argentina,2022,632318,South America,30.1
+Argentina,2023,645511,South America,2.09
+Argentina,2024,632145,South America,-2.07
+Argentina,2025,683533,South America,8.13
+Armenia,2020,12642,Asia,0.0
+Armenia,2021,13879,Asia,9.78
+Armenia,2022,19514,Asia,40.6
+Armenia,2023,24086,Asia,23.43
+Armenia,2024,25533,Asia,6.01
+Armenia,2025,26258,Asia,2.84
+Aruba,2020,2486,North America,0.0
+Aruba,2021,2929,North America,17.82
+Aruba,2022,3279,North America,11.95
+Aruba,2023,3649,North America,11.28
+Aruba,2024,3952,North America,8.3
+Aruba,2025,4100,North America,3.74
+Australia,2020,1362613,Oceania,0.0
+Australia,2021,1655843,Oceania,21.52
+Australia,2022,1725461,Oceania,4.2
+Australia,2023,1742461,Oceania,0.99
+Australia,2024,1796805,Oceania,3.12
+Australia,2025,1771681,Oceania,-1.4
+Austria,2020,434050,Europe,0.0
+Austria,2021,480786,Europe,10.77
+Austria,2022,472339,Europe,-1.76
+Austria,2023,512509,Europe,8.5
+Austria,2024,521269,Europe,1.71
+Austria,2025,534301,Europe,2.5
+Azerbaijan,2020,42693,Asia,0.0
+Azerbaijan,2021,54825,Asia,28.42
+Azerbaijan,2022,78807,Asia,43.74
+Azerbaijan,2023,72428,Asia,-8.09
+Azerbaijan,2024,74316,Asia,2.61
+Azerbaijan,2025,78870,Asia,6.13
+Bahamas,2020,9958,North America,0.0
+Bahamas,2021,11369,North America,14.17
+Bahamas,2022,13136,North America,15.54
+Bahamas,2023,14338,North America,9.15
+Bahamas,2024,14761,North America,2.95
+Bahamas,2025,15178,North America,2.83
+Bahrain,2020,35838,Asia,0.0
+Bahrain,2021,40840,Asia,13.96
+Bahrain,2022,46458,Asia,13.76
+Bahrain,2023,46192,Asia,-0.57
+Bahrain,2024,46943,Asia,1.63
+Bahrain,2025,47829,Asia,1.89
+Bangladesh,2020,373902,Asia,0.0
+Bangladesh,2021,416265,Asia,11.33
+Bangladesh,2022,460201,Asia,10.55
+Bangladesh,2023,451534,Asia,-1.88
+Bangladesh,2024,451096,Asia,-0.1
+Bangladesh,2025,467218,Asia,3.57
+Barbados,2020,5168,North America,0.0
+Barbados,2021,5275,North America,2.07
+Barbados,2022,6257,North America,18.62
+Barbados,2023,6721,North America,7.42
+Barbados,2024,7167,North America,6.64
+Barbados,2025,7552,North America,5.37
+Belarus,2020,61312,Europe,0.0
+Belarus,2021,68207,Europe,11.25
+Belarus,2022,73735,Europe,8.1
+Belarus,2023,71792,Europe,-2.64
+Belarus,2024,71180,Europe,-0.85
+Belarus,2025,71561,Europe,0.54
+Belgium,2020,529269,Europe,0.0
+Belgium,2021,598892,Europe,13.15
+Belgium,2022,593906,Europe,-0.83
+Belgium,2023,644968,Europe,8.6
+Belgium,2024,664965,Europe,3.1
+Belgium,2025,684864,Europe,2.99
+Belize,2020,2043,North America,0.0
+Belize,2021,2421,North America,18.5
+Belize,2022,2847,North America,17.6
+Belize,2023,3067,North America,7.73
+Belize,2024,3427,North America,11.74
+Belize,2025,3611,North America,5.37
+Benin,2020,15674,Africa,0.0
+Benin,2021,17699,Africa,12.92
+Benin,2022,17439,Africa,-1.47
+Benin,2023,19679,Africa,12.84
+Benin,2024,21249,Africa,7.98
+Benin,2025,22236,Africa,4.64
+Bhutan,2020,2586,Asia,0.0
+Bhutan,2021,2623,Asia,1.43
+Bhutan,2022,2869,Asia,9.38
+Bhutan,2023,2923,Asia,1.88
+Bhutan,2024,3092,Asia,5.78
+Bhutan,2025,3422,Asia,10.67
+Bolivia,2020,36897,South America,0.0
+Bolivia,2021,40701,South America,10.31
+Bolivia,2022,44329,South America,8.91
+Bolivia,2023,45464,South America,2.56
+Bolivia,2024,48404,South America,6.47
+Bolivia,2025,56339,South America,16.39
+Bosnia and Herzegovina,2020,20226,Europe,0.0
+Bosnia and Herzegovina,2021,23673,Europe,17.04
+Bosnia and Herzegovina,2022,24535,Europe,3.64
+Bosnia and Herzegovina,2023,27592,Europe,12.46
+Bosnia and Herzegovina,2024,28795,Europe,4.36
+Bosnia and Herzegovina,2025,28807,Europe,0.04
+Botswana,2020,14930,Africa,0.0
+Botswana,2021,18750,Africa,25.59
+Botswana,2022,20321,Africa,8.38
+Botswana,2023,19411,Africa,-4.48
+Botswana,2024,19356,Africa,-0.28
+Botswana,2025,19400,Africa,0.23
+Brazil,2020,1476092,South America,0.0
+Brazil,2021,1670650,South America,13.18
+Brazil,2022,1951849,South America,16.83
+Brazil,2023,2191137,South America,12.26
+Brazil,2024,2171337,South America,-0.9
+Brazil,2025,2125958,South America,-2.09
+Brunei,2020,12006,Asia,0.0
+Brunei,2021,14006,Asia,16.66
+Brunei,2022,16682,Asia,19.11
+Brunei,2023,15095,Asia,-9.51
+Brunei,2024,15463,Asia,2.44
+Brunei,2025,16007,Asia,3.52
+Bulgaria,2020,70658,Europe,0.0
+Bulgaria,2021,84477,Europe,19.56
+Bulgaria,2022,90719,Europe,7.39
+Bulgaria,2023,102434,Europe,12.91
+Bulgaria,2024,112232,Europe,9.57
+Bulgaria,2025,117007,Europe,4.25
+Burkina Faso,2020,17837,Africa,0.0
+Burkina Faso,2021,19747,Africa,10.71
+Burkina Faso,2022,19588,Africa,-0.81
+Burkina Faso,2023,21181,Africa,8.13
+Burkina Faso,2024,23975,Africa,13.19
+Burkina Faso,2025,27056,Africa,12.85
+Burundi,2020,3089,Africa,0.0
+Burundi,2021,3356,Africa,8.64
+Burundi,2022,3922,Africa,16.87
+Burundi,2023,4246,Africa,8.26
+Burundi,2024,4743,Africa,11.71
+Burundi,2025,6745,Africa,42.21
+Cape Verde,2020,1831,Africa,0.0
+Cape Verde,2021,2053,Africa,12.12
+Cape Verde,2022,2309,Africa,12.47
+Cape Verde,2023,2588,Africa,12.08
+Cape Verde,2024,2726,Africa,5.33
+Cape Verde,2025,2786,Africa,2.2
+Cambodia,2020,34898,Asia,0.0
+Cambodia,2021,36797,Asia,5.44
+Cambodia,2022,39838,Asia,8.26
+Cambodia,2023,43304,Asia,8.7
+Cambodia,2024,47328,Asia,9.29
+Cambodia,2025,49799,Asia,5.22
+Cameroon,2020,40863,Africa,0.0
+Cameroon,2021,45036,Africa,10.21
+Cameroon,2022,44442,Africa,-1.32
+Cameroon,2023,49283,Africa,10.89
+Cameroon,2024,52784,Africa,7.1
+Cameroon,2025,56011,Africa,6.11
+Canada,2020,1655685,North America,0.0
+Canada,2021,2022382,North America,22.15
+Canada,2022,2190411,North America,8.31
+Canada,2023,2173340,North America,-0.78
+Canada,2024,2241253,North America,3.12
+Canada,2025,2225341,North America,-0.71
+Central African Republic,2020,2389,Africa,0.0
+Central African Republic,2021,2585,Africa,8.2
+Central African Republic,2022,2460,Africa,-4.84
+Central African Republic,2023,2602,Africa,5.77
+Central African Republic,2024,2831,Africa,8.8
+Central African Republic,2025,2932,Africa,3.57
+Chad,2020,14954,Africa,0.0
+Chad,2021,16881,Africa,12.89
+Chad,2022,17867,Africa,5.84
+Chad,2023,18343,Africa,2.66
+Chad,2024,19078,Africa,4.01
+Chad,2025,18792,Africa,-1.5
+Chile,2020,254060,South America,0.0
+Chile,2021,315411,South America,24.15
+Chile,2022,301270,South America,-4.48
+Chile,2023,335627,South America,11.4
+Chile,2024,330210,South America,-1.61
+Chile,2025,343823,South America,4.12
+China,2020,15103357,Asia,0.0
+China,2021,18190803,Asia,20.44
+China,2022,18307816,Asia,0.64
+China,2023,18270351,Asia,-0.2
+China,2024,18748009,Asia,2.61
+China,2025,19231705,Asia,2.58
+Colombia,2020,270348,South America,0.0
+Colombia,2021,318525,South America,17.82
+Colombia,2022,345632,South America,8.51
+Colombia,2023,366292,South America,5.98
+Colombia,2024,418542,South America,14.26
+Colombia,2025,427766,South America,2.2
+Comoros,2020,1218,Africa,0.0
+Comoros,2021,1273,Africa,4.52
+Comoros,2022,1223,Africa,-3.93
+Comoros,2023,1335,Africa,9.16
+Comoros,2024,1456,Africa,9.06
+Comoros,2025,1548,Africa,6.32
+Democratic Republic of the Congo,2020,49613,Africa,0.0
+Democratic Republic of the Congo,2021,55327,Africa,11.52
+Democratic Republic of the Congo,2022,63324,Africa,14.45
+Democratic Republic of the Congo,2023,64402,Africa,1.7
+Democratic Republic of the Congo,2024,71011,Africa,10.26
+Democratic Republic of the Congo,2025,79119,Africa,11.42
+Republic of the Congo,2020,11485,Africa,0.0
+Republic of the Congo,2021,13387,Africa,16.56
+Republic of the Congo,2022,13967,Africa,4.33
+Republic of the Congo,2023,14169,Africa,1.45
+Republic of the Congo,2024,14893,Africa,5.11
+Republic of the Congo,2025,15281,Africa,2.61
+Costa Rica,2020,62382,North America,0.0
+Costa Rica,2021,64954,North America,4.12
+Costa Rica,2022,69235,North America,6.59
+Costa Rica,2023,86509,North America,24.95
+Costa Rica,2024,95365,North America,10.24
+Costa Rica,2025,102591,North America,7.58
+Ivory Coast,2020,63119,Africa,0.0
+Ivory Coast,2021,72833,Africa,15.39
+Ivory Coast,2022,71075,Africa,-2.41
+Ivory Coast,2023,79630,Africa,12.04
+Ivory Coast,2024,87096,Africa,9.38
+Ivory Coast,2025,94483,Africa,8.48
+Croatia,2020,57919,Europe,0.0
+Croatia,2021,69055,Europe,19.23
+Croatia,2022,71260,Europe,3.19
+Croatia,2023,84416,Europe,18.46
+Croatia,2024,92506,Europe,9.58
+Croatia,2025,98951,Europe,6.97
+Cyprus,2020,25535,Asia,0.0
+Cyprus,2021,30393,Asia,19.02
+Cyprus,2022,31001,Asia,2.0
+Cyprus,2023,33897,Asia,9.34
+Cyprus,2024,36156,Asia,6.66
+Cyprus,2025,38736,Asia,7.14
+Czech Republic,2020,251110,Europe,0.0
+Czech Republic,2021,290973,Europe,15.87
+Czech Republic,2022,301831,Europe,3.73
+Czech Republic,2023,343207,Europe,13.71
+Czech Republic,2024,344931,Europe,0.5
+Czech Republic,2025,360244,Europe,4.44
+Denmark,2020,355631,Europe,0.0
+Denmark,2021,408378,Europe,14.83
+Denmark,2022,401946,Europe,-1.58
+Denmark,2023,407092,Europe,1.28
+Denmark,2024,429458,Europe,5.49
+Denmark,2025,449940,Europe,4.77
+Djibouti,2020,3144,Africa,0.0
+Djibouti,2021,3393,Africa,7.92
+Djibouti,2022,3563,Africa,5.01
+Djibouti,2023,3917,Africa,9.94
+Djibouti,2024,4257,Africa,8.68
+Djibouti,2025,4587,Africa,7.75
+Dominica,2020,504,North America,0.0
+Dominica,2021,555,North America,10.12
+Dominica,2022,607,North America,9.37
+Dominica,2023,654,North America,7.74
+Dominica,2024,697,North America,6.57
+Dominica,2025,742,North America,6.46
+Dominican Republic,2020,78625,North America,0.0
+Dominican Republic,2021,95067,North America,20.91
+Dominican Republic,2022,113813,North America,19.72
+Dominican Republic,2023,120794,North America,6.13
+Dominican Republic,2024,124613,North America,3.16
+Dominican Republic,2025,127828,North America,2.58
+Ecuador,2020,95865,South America,0.0
+Ecuador,2021,107179,South America,11.8
+Ecuador,2022,116133,South America,8.35
+Ecuador,2023,121147,South America,4.32
+Ecuador,2024,121728,South America,0.48
+Ecuador,2025,125677,South America,3.24
+Egypt,2020,382525,Africa,0.0
+Egypt,2021,423300,Africa,10.66
+Egypt,2022,475231,Africa,12.27
+Egypt,2023,393828,Africa,-17.13
+Egypt,2024,383109,Africa,-2.72
+Egypt,2025,347342,Africa,-9.34
+El Salvador,2020,24921,North America,0.0
+El Salvador,2021,29043,North America,16.54
+El Salvador,2022,31989,North America,10.14
+El Salvador,2023,34016,North America,6.34
+El Salvador,2024,35337,North America,3.88
+El Salvador,2025,36749,North America,4.0
+Equatorial Guinea,2020,9908,Africa,0.0
+Equatorial Guinea,2021,12222,Africa,23.35
+Equatorial Guinea,2022,13717,Africa,12.23
+Equatorial Guinea,2023,12339,Africa,-10.05
+Equatorial Guinea,2024,12544,Africa,1.66
+Equatorial Guinea,2025,12684,Africa,1.12
+Eritrea,2020,1982,Africa,0.0
+Estonia,2020,31795,Europe,0.0
+Estonia,2021,37229,Europe,17.09
+Estonia,2022,38406,Europe,3.16
+Estonia,2023,41303,Europe,7.54
+Estonia,2024,42752,Europe,3.51
+Estonia,2025,45004,Europe,5.27
+Eswatini,2020,3984,Africa,0.0
+Eswatini,2021,4851,Africa,21.76
+Eswatini,2022,4791,Africa,-1.24
+Eswatini,2023,4858,Africa,1.4
+Eswatini,2024,5199,Africa,7.02
+Eswatini,2025,5483,Africa,5.46
+Ethiopia,2020,96611,Africa,0.0
+Ethiopia,2021,99261,Africa,2.74
+Ethiopia,2022,118958,Africa,19.84
+Ethiopia,2023,159761,Africa,34.3
+Ethiopia,2024,143123,Africa,-10.41
+Ethiopia,2025,117457,Africa,-17.93
+Fiji,2020,4432,Oceania,0.0
+Fiji,2021,4305,Oceania,-2.87
+Fiji,2022,4970,Oceania,15.45
+Fiji,2023,5442,Oceania,9.5
+Fiji,2024,5949,Oceania,9.32
+Fiji,2025,6257,Oceania,5.18
+Finland,2020,269784,Europe,0.0
+Finland,2021,294419,Europe,9.13
+Finland,2022,280474,Europe,-4.74
+Finland,2023,295036,Europe,5.19
+Finland,2024,298833,Europe,1.29
+Finland,2025,303945,Europe,1.71
+France,2020,2645806,Europe,0.0
+France,2021,2968405,Europe,12.19
+France,2022,2797049,Europe,-5.77
+France,2023,3056880,Europe,9.29
+France,2024,3162023,Europe,3.44
+France,2025,3211292,Europe,1.56
+Gabon,2020,15364,Africa,0.0
+Gabon,2021,19455,Africa,26.63
+Gabon,2022,20485,Africa,5.29
+Gabon,2023,20059,Africa,-2.08
+Gabon,2024,20774,Africa,3.56
+Gabon,2025,20391,Africa,-1.84
+Gambia,2020,1809,Africa,0.0
+Gambia,2021,2045,Africa,13.05
+Gambia,2022,2135,Africa,4.4
+Gambia,2023,2345,Africa,9.84
+Gambia,2024,2558,Africa,9.08
+Gambia,2025,2771,Africa,8.33
+Georgia,2020,16013,Asia,0.0
+Georgia,2021,18849,Asia,17.71
+Georgia,2022,24985,Asia,32.55
+Georgia,2023,30778,Asia,23.19
+Georgia,2024,33775,Asia,9.74
+Georgia,2025,35353,Asia,4.67
+Germany,2020,3936989,Europe,0.0
+Germany,2021,4351188,Europe,10.52
+Germany,2022,4166872,Europe,-4.24
+Germany,2023,4527009,Europe,8.64
+Germany,2024,4658526,Europe,2.91
+Germany,2025,4744804,Europe,1.85
+Ghana,2020,70008,Africa,0.0
+Ghana,2021,79514,Africa,13.58
+Ghana,2022,73919,Africa,-7.04
+Ghana,2023,80547,Africa,8.97
+Ghana,2024,82825,Africa,2.83
+Ghana,2025,88332,Africa,6.65
+Greece,2020,191210,Europe,0.0
+Greece,2021,218449,Europe,14.25
+Greece,2022,219053,Europe,0.28
+Greece,2023,243569,Europe,11.19
+Greece,2024,257067,Europe,5.54
+Greece,2025,267348,Europe,4.0
+Grenada,2020,1043,North America,0.0
+Grenada,2021,1123,North America,7.67
+Grenada,2022,1231,North America,9.62
+Grenada,2023,1325,North America,7.64
+Grenada,2024,1392,North America,5.06
+Grenada,2025,1464,North America,5.17
+Guatemala,2020,77718,North America,0.0
+Guatemala,2021,86467,North America,11.26
+Guatemala,2022,95631,North America,10.6
+Guatemala,2023,104436,North America,9.21
+Guatemala,2024,112575,North America,7.79
+Guatemala,2025,121177,North America,7.64
+Guinea,2020,14089,Africa,0.0
+Guinea,2021,16320,Africa,15.84
+Guinea,2022,19589,Africa,20.03
+Guinea,2023,22750,Africa,16.14
+Guinea,2024,25758,Africa,13.22
+Guinea,2025,30094,Africa,16.83
+Guinea-Bissau,2020,1523,Africa,0.0
+Guinea-Bissau,2021,1722,Africa,13.07
+Guinea-Bissau,2022,1721,Africa,-0.06
+Guinea-Bissau,2023,2005,Africa,16.5
+Guinea-Bissau,2024,2184,Africa,8.93
+Guinea-Bissau,2025,2274,Africa,4.12
+Guyana,2020,5471,South America,0.0
+Guyana,2021,8041,South America,46.97
+Guyana,2022,14718,South America,83.04
+Guyana,2023,16919,South America,14.95
+Guyana,2024,24659,South America,45.75
+Guyana,2025,25822,South America,4.72
+Haiti,2020,14508,North America,0.0
+Haiti,2021,21017,North America,44.86
+Haiti,2022,19826,North America,-5.67
+Haiti,2023,19603,North America,-1.12
+Haiti,2024,26229,North America,33.8
+Haiti,2025,33548,North America,27.9
+Honduras,2020,23190,North America,0.0
+Honduras,2021,27950,North America,20.53
+Honduras,2022,31233,North America,11.75
+Honduras,2023,34229,North America,9.59
+Honduras,2024,36965,North America,7.99
+Honduras,2025,38172,North America,3.27
+Hong Kong,2020,344941,Asia,0.0
+Hong Kong,2021,368954,Asia,6.96
+Hong Kong,2022,358680,Asia,-2.78
+Hong Kong,2023,381066,Asia,6.24
+Hong Kong,2024,407107,Asia,6.83
+Hong Kong,2025,423999,Asia,4.15
+Hungary,2020,158468,Europe,0.0
+Hungary,2021,183283,Europe,15.66
+Hungary,2022,178321,Europe,-2.71
+Hungary,2023,214098,Europe,20.06
+Hungary,2024,223060,Europe,4.19
+Hungary,2025,237070,Europe,6.28
+Iceland,2020,21630,Europe,0.0
+Iceland,2021,25770,Europe,19.14
+Iceland,2022,28696,Europe,11.35
+Iceland,2023,31452,Europe,9.6
+Iceland,2024,33463,Europe,6.39
+Iceland,2025,35309,Europe,5.52
+India,2020,2674852,Asia,0.0
+India,2021,3167271,Asia,18.41
+India,2022,3346107,Asia,5.65
+India,2023,3638490,Asia,8.74
+India,2024,3909097,Asia,7.44
+India,2025,4187017,Asia,7.11
+Indonesia,2020,1059055,Asia,0.0
+Indonesia,2021,1186510,Asia,12.03
+Indonesia,2022,1319101,Asia,11.17
+Indonesia,2023,1371169,Asia,3.95
+Indonesia,2024,1396300,Asia,1.83
+Indonesia,2025,1429743,Asia,2.4
+Iran,2020,195528,Asia,0.0
+Iran,2021,289294,Asia,47.96
+Iran,2022,376254,Asia,30.06
+Iran,2023,372820,Asia,-0.91
+Iran,2024,401357,Asia,7.65
+Iran,2025,341013,Asia,-15.03
+Iraq,2020,182576,Asia,0.0
+Iraq,2021,210753,Asia,15.43
+Iraq,2022,288059,Asia,36.68
+Iraq,2023,270799,Asia,-5.99
+Iraq,2024,277478,Asia,2.47
+Iraq,2025,258020,Asia,-7.01
+Ireland,2020,436205,Europe,0.0
+Ireland,2021,531660,Europe,21.88
+Ireland,2022,549003,Europe,3.26
+Ireland,2023,551554,Europe,0.46
+Ireland,2024,577216,Europe,4.65
+Ireland,2025,598840,Europe,3.75
+Israel,2020,410771,Asia,0.0
+Israel,2021,489854,Asia,19.25
+Israel,2022,525183,Asia,7.21
+Israel,2023,512185,Asia,-2.47
+Israel,2024,540381,Asia,5.51
+Israel,2025,583361,Asia,7.95
+Italy,2020,1905956,Europe,0.0
+Italy,2021,2180656,Europe,14.41
+Italy,2022,2105722,Europe,-3.44
+Italy,2023,2305271,Europe,9.48
+Italy,2024,2372059,Europe,2.9
+Italy,2025,2422855,Europe,2.14
+Jamaica,2020,13885,North America,0.0
+Jamaica,2021,14674,North America,5.68
+Jamaica,2022,17003,North America,15.87
+Jamaica,2023,19315,North America,13.6
+Jamaica,2024,20069,North America,3.9
+Jamaica,2025,21411,North America,6.69
+Japan,2020,5054069,Asia,0.0
+Japan,2021,5039148,Asia,-0.3
+Japan,2022,4262146,Asia,-15.42
+Japan,2023,4213167,Asia,-1.15
+Japan,2024,4026211,Asia,-4.44
+Japan,2025,4186431,Asia,3.98
+Jordan,2020,43762,Asia,0.0
+Jordan,2021,46362,Asia,5.94
+Jordan,2022,48722,Asia,5.09
+Jordan,2023,51161,Asia,5.01
+Jordan,2024,53428,Asia,4.43
+Jordan,2025,56102,Asia,5.0
+Kazakhstan,2020,171082,Asia,0.0
+Kazakhstan,2021,197112,Asia,15.21
+Kazakhstan,2022,225496,Asia,14.4
+Kazakhstan,2023,261840,Asia,16.12
+Kazakhstan,2024,284810,Asia,8.77
+Kazakhstan,2025,300538,Asia,5.52
+Kenya,2020,100912,Africa,0.0
+Kenya,2021,109875,Africa,8.88
+Kenya,2022,114733,Africa,4.42
+Kenya,2023,108747,Africa,-5.22
+Kenya,2024,120899,Africa,11.17
+Kenya,2025,131673,Africa,8.91
+Kiribati,2020,222,Oceania,0.0
+Kiribati,2021,285,Oceania,28.38
+Kiribati,2022,271,Oceania,-4.91
+Kiribati,2023,289,Oceania,6.64
+Kiribati,2024,308,Oceania,6.57
+Kiribati,2025,312,Oceania,1.3
+South Korea,2020,1744456,Asia,0.0
+South Korea,2021,1942314,Asia,11.34
+South Korea,2022,1799363,Asia,-7.36
+South Korea,2023,1839058,Asia,2.21
+South Korea,2024,1869714,Asia,1.67
+South Korea,2025,1790322,Asia,-4.25
+Kosovo,2020,7728,Unknown,0.0
+Kosovo,2021,9418,Unknown,21.87
+Kosovo,2022,9375,Unknown,-0.46
+Kosovo,2023,10470,Unknown,11.68
+Kosovo,2024,11151,Unknown,6.5
+Kosovo,2025,11274,Unknown,1.1
+Kuwait,2020,111048,Asia,0.0
+Kuwait,2021,148455,Asia,33.69
+Kuwait,2022,183977,Asia,23.93
+Kuwait,2023,163716,Asia,-11.01
+Kuwait,2024,158568,Asia,-3.14
+Kuwait,2025,153101,Asia,-3.45
+Kyrgyzstan,2020,8283,Asia,0.0
+Kyrgyzstan,2021,9256,Asia,11.75
+Kyrgyzstan,2022,12269,Asia,32.55
+Kyrgyzstan,2023,15187,Asia,23.78
+Kyrgyzstan,2024,17491,Asia,15.17
+Kyrgyzstan,2025,19849,Asia,13.48
+Laos,2020,18511,Asia,0.0
+Laos,2021,18533,Asia,0.12
+Laos,2022,15121,Asia,-18.41
+Laos,2023,14978,Asia,-0.95
+Laos,2024,15879,Asia,6.02
+Laos,2025,16322,Asia,2.79
+Latvia,2020,33353,Europe,0.0
+Latvia,2021,38209,Europe,14.56
+Latvia,2022,38045,Europe,-0.43
+Latvia,2023,42584,Europe,11.93
+Latvia,2024,43508,Europe,2.17
+Latvia,2025,45535,Europe,4.66
+Lebanon,2020,24976,Asia,0.0
+Lebanon,2021,19782,Asia,-20.8
+Lebanon,2022,24748,Asia,25.1
+Lebanon,2023,23607,Asia,-4.61
+Lebanon,2024,28280,Asia,19.79
+Lesotho,2020,2092,Africa,0.0
+Lesotho,2021,2445,Africa,16.87
+Lesotho,2022,2275,Africa,-6.95
+Lesotho,2023,2213,Africa,-2.73
+Lesotho,2024,2309,Africa,4.34
+Lesotho,2025,2404,Africa,4.11
+Liberia,2020,3037,Africa,0.0
+Liberia,2021,3509,Africa,15.54
+Liberia,2022,3974,Africa,13.25
+Liberia,2023,4390,Africa,10.47
+Liberia,2024,4818,Africa,9.75
+Liberia,2025,5166,Africa,7.22
+Libya,2020,46893,Africa,0.0
+Libya,2021,35216,Africa,-24.9
+Libya,2022,43281,Africa,22.9
+Libya,2023,43958,Africa,1.56
+Libya,2024,42159,Africa,-4.09
+Libya,2025,47484,Africa,12.63
+Lithuania,2020,57352,Europe,0.0
+Lithuania,2021,67068,Europe,16.94
+Lithuania,2022,71082,Europe,5.98
+Lithuania,2023,79824,Europe,12.3
+Lithuania,2024,84847,Europe,6.29
+Lithuania,2025,89192,Europe,5.12
+Luxembourg,2020,73612,Europe,0.0
+Luxembourg,2021,86444,Europe,17.43
+Luxembourg,2022,80865,Europe,-6.45
+Luxembourg,2023,87599,Europe,8.33
+Luxembourg,2024,93169,Europe,6.36
+Luxembourg,2025,96613,Europe,3.7
+Macau,2020,25344,Asia,0.0
+Macau,2021,30969,Asia,22.19
+Macau,2022,24998,Asia,-19.28
+Macau,2023,45802,Asia,83.22
+Macau,2024,50182,Asia,9.56
+Macau,2025,53354,Asia,6.32
+Madagascar,2020,13051,Africa,0.0
+Madagascar,2021,14355,Africa,9.99
+Madagascar,2022,15326,Africa,6.76
+Madagascar,2023,15870,Africa,3.55
+Madagascar,2024,17420,Africa,9.77
+Madagascar,2025,18708,Africa,7.39
+Malawi,2020,11847,Africa,0.0
+Malawi,2021,12475,Africa,5.3
+Malawi,2022,12531,Africa,0.45
+Malawi,2023,13439,Africa,7.25
+Malawi,2024,11797,Africa,-12.22
+Malawi,2025,13959,Africa,18.33
+Malaysia,2020,337456,Asia,0.0
+Malaysia,2021,373785,Asia,10.77
+Malaysia,2022,407605,Asia,9.05
+Malaysia,2023,399705,Asia,-1.94
+Malaysia,2024,419617,Asia,4.98
+Malaysia,2025,444984,Asia,6.05
+Maldives,2020,3706,Asia,0.0
+Maldives,2021,5242,Asia,41.45
+Maldives,2022,6168,Asia,17.67
+Maldives,2023,6581,Asia,6.7
+Maldives,2024,7019,Asia,6.66
+Maldives,2025,7480,Asia,6.57
+Mali,2020,17491,Africa,0.0
+Mali,2021,19320,Africa,10.46
+Mali,2022,19319,Africa,-0.01
+Mali,2023,21184,Africa,9.65
+Mali,2024,22724,Africa,7.27
+Mali,2025,23208,Africa,2.13
+Malta,2020,16397,Europe,0.0
+Malta,2021,19737,Europe,20.37
+Malta,2022,19254,Europe,-2.45
+Malta,2023,22217,Europe,15.39
+Malta,2024,24315,Europe,9.44
+Malta,2025,25750,Europe,5.9
+Marshall Islands,2020,242,Oceania,0.0
+Marshall Islands,2021,259,Oceania,7.02
+Marshall Islands,2022,253,Oceania,-2.32
+Marshall Islands,2023,259,Oceania,2.37
+Marshall Islands,2024,280,Oceania,8.11
+Marshall Islands,2025,297,Oceania,6.07
+Mauritania,2020,8464,Africa,0.0
+Mauritania,2021,9126,Africa,7.82
+Mauritania,2022,9564,Africa,4.8
+Mauritania,2023,10649,Africa,11.34
+Mauritania,2024,10697,Africa,0.45
+Mauritania,2025,11470,Africa,7.23
+Mauritius,2020,11408,Africa,0.0
+Mauritius,2021,11484,Africa,0.67
+Mauritius,2022,12908,Africa,12.4
+Mauritius,2023,14101,Africa,9.24
+Mauritius,2024,14953,Africa,6.04
+Mauritius,2025,15495,Africa,3.62
+Mexico,2020,1121065,North America,0.0
+Mexico,2021,1316569,North America,17.44
+Mexico,2022,1466465,North America,11.39
+Mexico,2023,1793799,North America,22.32
+Mexico,2024,1852723,North America,3.28
+Mexico,2025,1692640,North America,-8.64
+Federated States of Micronesia,2020,373,Oceania,0.0
+Federated States of Micronesia,2021,392,Oceania,5.09
+Federated States of Micronesia,2022,416,Oceania,6.12
+Federated States of Micronesia,2023,444,Oceania,6.73
+Federated States of Micronesia,2024,471,Oceania,6.08
+Federated States of Micronesia,2025,500,Oceania,6.16
+Moldova,2020,11530,Europe,0.0
+Moldova,2021,13694,Europe,18.77
+Moldova,2022,14493,Europe,5.83
+Moldova,2023,16751,Europe,15.58
+Moldova,2024,18126,Europe,8.21
+Moldova,2025,19462,Europe,7.37
+Mongolia,2020,13313,Asia,0.0
+Mongolia,2021,15286,Asia,14.82
+Mongolia,2022,17146,Asia,12.17
+Mongolia,2023,20315,Asia,18.48
+Mongolia,2024,23586,Asia,16.1
+Mongolia,2025,25804,Asia,9.4
+Montenegro,2020,4777,Europe,0.0
+Montenegro,2021,5865,Europe,22.78
+Montenegro,2022,6243,Europe,6.45
+Montenegro,2023,7532,Europe,20.65
+Montenegro,2024,8023,Europe,6.52
+Montenegro,2025,8562,Europe,6.72
+Morocco,2020,121354,Africa,0.0
+Morocco,2021,142022,Africa,17.03
+Morocco,2022,130952,Africa,-7.79
+Morocco,2023,144438,Africa,10.3
+Morocco,2024,155350,Africa,7.55
+Morocco,2025,165835,Africa,6.75
+Mozambique,2020,14235,Africa,0.0
+Mozambique,2021,16168,Africa,13.58
+Mozambique,2022,18884,Africa,16.8
+Mozambique,2023,20954,Africa,10.96
+Mozambique,2024,21944,Africa,4.72
+Mozambique,2025,23771,Africa,8.33
+Myanmar,2020,65631,Asia,0.0
+Myanmar,2021,58264,Asia,-11.22
+Myanmar,2022,61723,Asia,5.94
+Myanmar,2023,61466,Asia,-0.42
+Myanmar,2024,61176,Asia,-0.47
+Myanmar,2025,64944,Asia,6.16
+Namibia,2020,10583,Africa,0.0
+Namibia,2021,12399,Africa,17.16
+Namibia,2022,12564,Africa,1.33
+Namibia,2023,12402,Africa,-1.29
+Namibia,2024,13370,Africa,7.81
+Namibia,2025,14214,Africa,6.31
+Nauru,2020,125,Oceania,0.0
+Nauru,2021,176,Oceania,40.8
+Nauru,2022,152,Oceania,-13.64
+Nauru,2023,152,Oceania,0.0
+Nauru,2024,161,Oceania,5.92
+Nauru,2025,169,Oceania,4.97
+Nepal,2020,33434,Asia,0.0
+Nepal,2021,36927,Asia,10.45
+Nepal,2022,41183,Asia,11.53
+Nepal,2023,40907,Asia,-0.67
+Nepal,2024,43419,Asia,6.14
+Nepal,2025,46080,Asia,6.13
+Netherlands,2020,931814,Europe,0.0
+Netherlands,2021,1055173,Europe,13.24
+Netherlands,2022,1047364,Europe,-0.74
+Netherlands,2023,1154694,Europe,10.25
+Netherlands,2024,1227174,Europe,6.28
+Netherlands,2025,1272011,Europe,3.65
+New Zealand,2020,210541,Oceania,0.0
+New Zealand,2021,249775,Oceania,18.63
+New Zealand,2022,245203,Oceania,-1.83
+New Zealand,2023,253436,Oceania,3.36
+New Zealand,2024,257728,Oceania,1.69
+New Zealand,2025,248666,Oceania,-3.52
+Nicaragua,2020,12730,North America,0.0
+Nicaragua,2021,14208,North America,11.61
+Nicaragua,2022,15634,North America,10.04
+Nicaragua,2023,17820,North America,13.98
+Nicaragua,2024,19710,North America,10.61
+Nicaragua,2025,21155,North America,7.33
+Niger,2020,13764,Africa,0.0
+Niger,2021,14923,Africa,8.42
+Niger,2022,15458,Africa,3.59
+Niger,2023,16809,Africa,8.74
+Niger,2024,19866,Africa,18.19
+Niger,2025,21874,Africa,10.11
+Nigeria,2020,432299,Africa,0.0
+Nigeria,2021,441074,Africa,2.03
+Nigeria,2022,476468,Africa,8.02
+Nigeria,2023,363816,Africa,-23.64
+Nigeria,2024,187640,Africa,-48.42
+Nigeria,2025,188271,Africa,0.34
+North Macedonia,2020,12385,Europe,0.0
+North Macedonia,2021,14008,Europe,13.1
+North Macedonia,2022,13957,Europe,-0.36
+North Macedonia,2023,15772,Europe,13.0
+North Macedonia,2024,16679,Europe,5.75
+North Macedonia,2025,17885,Europe,7.23
+Norway,2020,367633,Europe,0.0
+Norway,2021,503368,Europe,36.92
+Norway,2022,596298,Europe,18.46
+Norway,2023,482950,Europe,-19.01
+Norway,2024,483727,Europe,0.16
+Norway,2025,504276,Europe,4.25
+Oman,2020,75909,Asia,0.0
+Oman,2021,87324,Asia,15.04
+Oman,2022,109853,Asia,25.8
+Oman,2023,105896,Asia,-3.6
+Oman,2024,106943,Asia,0.99
+Oman,2025,104351,Asia,-2.42
+Pakistan,2020,300410,Asia,0.0
+Pakistan,2021,348481,Asia,16.0
+Pakistan,2022,374850,Asia,7.57
+Pakistan,2023,337754,Asia,-9.9
+Pakistan,2024,373078,Asia,10.46
+Palau,2020,259,Oceania,0.0
+Palau,2021,236,Oceania,-8.88
+Palau,2022,248,Oceania,5.08
+Palau,2023,275,Oceania,10.89
+Palau,2024,306,Oceania,11.27
+Palau,2025,333,Oceania,8.82
+Panama,2020,57087,North America,0.0
+Panama,2021,67407,North America,18.08
+Panama,2022,76523,North America,13.52
+Panama,2023,83382,North America,8.96
+Panama,2024,87688,North America,5.16
+Panama,2025,91675,North America,4.55
+Papua New Guinea,2020,23848,Oceania,0.0
+Papua New Guinea,2021,26113,Oceania,9.5
+Papua New Guinea,2022,31653,Oceania,21.22
+Papua New Guinea,2023,30729,Oceania,-2.92
+Papua New Guinea,2024,31654,Oceania,3.01
+Papua New Guinea,2025,32835,Oceania,3.73
+Paraguay,2020,35432,South America,0.0
+Paraguay,2021,39951,South America,12.75
+Paraguay,2022,41953,South America,5.01
+Paraguay,2023,43118,South America,2.78
+Paraguay,2024,43989,South America,2.02
+Paraguay,2025,45465,South America,3.36
+Peru,2020,206461,South America,0.0
+Peru,2021,226268,South America,9.59
+Peru,2022,244419,South America,8.02
+Peru,2023,267482,South America,9.44
+Peru,2024,289070,South America,8.07
+Peru,2025,303293,South America,4.92
+Philippines,2020,361751,Asia,0.0
+Philippines,2021,394087,Asia,8.94
+Philippines,2022,404353,Asia,2.61
+Philippines,2023,437055,Asia,8.09
+Philippines,2024,461617,Asia,5.62
+Philippines,2025,497495,Asia,7.77
+Poland,2020,605930,Europe,0.0
+Poland,2021,689253,Europe,13.75
+Poland,2022,695734,Europe,0.94
+Poland,2023,809706,Europe,16.38
+Poland,2024,908583,Europe,12.21
+Poland,2025,979960,Europe,7.86
+Portugal,2020,229435,Europe,0.0
+Portugal,2021,256226,Europe,11.68
+Portugal,2022,257101,Europe,0.34
+Portugal,2023,289781,Europe,12.71
+Portugal,2024,308590,Europe,6.49
+Portugal,2025,321440,Europe,4.16
+Puerto Rico,2020,103131,North America,0.0
+Puerto Rico,2021,106427,North America,3.2
+Puerto Rico,2022,113567,North America,6.71
+Puerto Rico,2023,117902,North America,3.82
+Puerto Rico,2024,120978,North America,2.61
+Puerto Rico,2025,122522,North America,1.28
+Qatar,2020,144411,Asia,0.0
+Qatar,2021,179732,Asia,24.46
+Qatar,2022,235709,Asia,31.14
+Qatar,2023,213003,Asia,-9.63
+Qatar,2024,221452,Asia,3.97
+Qatar,2025,222776,Asia,0.6
+Romania,2020,252372,Europe,0.0
+Romania,2021,286783,Europe,13.64
+Romania,2022,296928,Europe,3.54
+Romania,2023,350847,Europe,18.16
+Romania,2024,384148,Europe,9.49
+Romania,2025,403395,Europe,5.01
+Russia,2020,1488118,Europe,0.0
+Russia,2021,1828927,Europe,22.9
+Russia,2022,2295527,Europe,25.51
+Russia,2023,2059762,Europe,-10.27
+Russia,2024,2161205,Europe,4.92
+Russia,2025,2076396,Europe,-3.92
+Rwanda,2020,10174,Africa,0.0
+Rwanda,2021,11066,Africa,8.77
+Rwanda,2022,13313,Africa,20.31
+Rwanda,2023,14331,Africa,7.65
+Rwanda,2024,14251,Africa,-0.56
+Rwanda,2025,14771,Africa,3.65
+Samoa,2020,869,Oceania,0.0
+Samoa,2021,844,Oceania,-2.88
+Samoa,2022,833,Oceania,-1.3
+Samoa,2023,938,Oceania,12.61
+Samoa,2024,1068,Oceania,13.86
+Samoa,2025,1160,Oceania,8.61
+San Marino,2020,1543,Europe,0.0
+San Marino,2021,1857,Europe,20.35
+San Marino,2022,1833,Europe,-1.29
+San Marino,2023,2003,Europe,9.27
+San Marino,2024,2063,Europe,3.0
+San Marino,2025,2047,Europe,-0.78
+São Tomé and Príncipe,2020,476,Africa,0.0
+São Tomé and Príncipe,2021,529,Africa,11.13
+São Tomé and Príncipe,2022,546,Africa,3.21
+São Tomé and Príncipe,2023,684,Africa,25.27
+São Tomé and Príncipe,2024,796,Africa,16.37
+São Tomé and Príncipe,2025,864,Africa,8.54
+Saudi Arabia,2020,734271,Asia,0.0
+Saudi Arabia,2021,874157,Asia,19.05
+Saudi Arabia,2022,1108571,Asia,26.82
+Saudi Arabia,2023,1067583,Asia,-3.7
+Saudi Arabia,2024,1085358,Asia,1.66
+Saudi Arabia,2025,1083749,Asia,-0.15
+Senegal,2020,24534,Africa,0.0
+Senegal,2021,27584,Africa,12.43
+Senegal,2022,27750,Africa,0.6
+Senegal,2023,30625,Africa,10.36
+Senegal,2024,32892,Africa,7.4
+Senegal,2025,34728,Africa,5.58
+Serbia,2020,55874,Europe,0.0
+Serbia,2021,65830,Europe,17.82
+Serbia,2022,66798,Europe,1.47
+Serbia,2023,81343,Europe,21.77
+Serbia,2024,89074,Europe,9.5
+Serbia,2025,92549,Europe,3.9
+Seychelles,2020,1384,Africa,0.0
+Seychelles,2021,1490,Africa,7.66
+Seychelles,2022,2018,Africa,35.44
+Seychelles,2023,2187,Africa,8.37
+Seychelles,2024,2168,Africa,-0.87
+Seychelles,2025,2198,Africa,1.38
+Sierra Leone,2020,6682,Africa,0.0
+Sierra Leone,2021,7165,Africa,7.23
+Sierra Leone,2022,7119,Africa,-0.64
+Sierra Leone,2023,6397,Africa,-10.14
+Sierra Leone,2024,7653,Africa,19.63
+Sierra Leone,2025,8386,Africa,9.58
+Singapore,2020,349166,Asia,0.0
+Singapore,2021,436591,Asia,25.04
+Singapore,2022,509018,Asia,16.59
+Singapore,2023,505440,Asia,-0.7
+Singapore,2024,547387,Asia,8.3
+Singapore,2025,564774,Asia,3.18
+Slovakia,2020,107646,Europe,0.0
+Slovakia,2021,120672,Europe,12.1
+Slovakia,2022,116020,Europe,-3.86
+Slovakia,2023,132947,Europe,14.59
+Slovakia,2024,140636,Europe,5.78
+Slovakia,2025,147031,Europe,4.55
+Slovenia,2020,53342,Europe,0.0
+Slovenia,2021,61570,Europe,15.42
+Slovenia,2022,59975,Europe,-2.59
+Slovenia,2023,69168,Europe,15.33
+Slovenia,2024,72463,Europe,4.76
+Slovenia,2025,75224,Europe,3.81
+Solomon Islands,2020,1536,Oceania,0.0
+Solomon Islands,2021,1523,Oceania,-0.85
+Solomon Islands,2022,1566,Oceania,2.82
+Solomon Islands,2023,1661,Oceania,6.07
+Solomon Islands,2024,1777,Oceania,6.98
+Solomon Islands,2025,1898,Oceania,6.81
+Somalia,2020,8628,Africa,0.0
+Somalia,2021,9484,Africa,9.92
+Somalia,2022,10203,Africa,7.58
+Somalia,2023,10969,Africa,7.51
+Somalia,2024,12134,Africa,10.62
+Somalia,2025,12994,Africa,7.09
+South Africa,2020,337876,Africa,0.0
+South Africa,2021,420778,Africa,24.54
+South Africa,2022,406755,Africa,-3.33
+South Africa,2023,380592,Africa,-6.43
+South Africa,2024,400191,Africa,5.15
+South Africa,2025,410338,Africa,2.54
+South Sudan,2020,5423,Africa,0.0
+South Sudan,2021,5940,Africa,9.53
+South Sudan,2022,8037,Africa,35.3
+South Sudan,2023,7186,Africa,-10.59
+South Sudan,2024,5423,Africa,-24.53
+South Sudan,2025,3998,Africa,-26.28
+Spain,2020,1288751,Europe,0.0
+Spain,2021,1462216,Europe,13.46
+Spain,2022,1447636,Europe,-1.0
+Spain,2023,1620558,Europe,11.95
+Spain,2024,1722227,Europe,6.27
+Spain,2025,1799511,Europe,4.49
+Sri Lanka,2020,84304,Asia,0.0
+Sri Lanka,2021,88609,Asia,5.11
+Sri Lanka,2022,74584,Asia,-15.83
+Sri Lanka,2023,83723,Asia,12.25
+Sri Lanka,2024,98964,Asia,18.2
+Saint Kitts and Nevis,2020,884,North America,0.0
+Saint Kitts and Nevis,2021,859,North America,-2.83
+Saint Kitts and Nevis,2022,981,North America,14.2
+Saint Kitts and Nevis,2023,1056,North America,7.65
+Saint Kitts and Nevis,2024,1117,North America,5.78
+Saint Kitts and Nevis,2025,1129,North America,1.07
+Saint Lucia,2020,1499,North America,0.0
+Saint Lucia,2021,1867,North America,24.55
+Saint Lucia,2022,2343,North America,25.5
+Saint Lucia,2023,2430,North America,3.71
+Saint Lucia,2024,2523,North America,3.83
+Saint Lucia,2025,2632,North America,4.32
+Saint Vincent and the Grenadines,2020,864,North America,0.0
+Saint Vincent and the Grenadines,2021,888,North America,2.78
+Saint Vincent and the Grenadines,2022,970,North America,9.23
+Saint Vincent and the Grenadines,2023,1071,North America,10.41
+Saint Vincent and the Grenadines,2024,1162,North America,8.5
+Saint Vincent and the Grenadines,2025,1242,North America,6.88
+Sudan,2020,35237,Africa,0.0
+Sudan,2021,35142,Africa,-0.27
+Sudan,2022,33517,Africa,-4.62
+Sudan,2023,36998,Africa,10.39
+Sudan,2024,28270,Africa,-23.59
+Sudan,2025,31506,Africa,11.45
+Suriname,2020,2912,South America,0.0
+Suriname,2021,3084,South America,5.91
+Suriname,2022,3631,South America,17.74
+Suriname,2023,3445,South America,-5.12
+Suriname,2024,4458,South America,29.4
+Suriname,2025,4506,South America,1.08
+Sweden,2020,545148,Europe,0.0
+Sweden,2021,637187,Europe,16.88
+Sweden,2022,579896,Europe,-8.99
+Sweden,2023,585490,Europe,0.96
+Sweden,2024,610118,Europe,4.21
+Sweden,2025,620297,Europe,1.67
+Switzerland,2020,741288,Europe,0.0
+Switzerland,2021,814699,Europe,9.9
+Switzerland,2022,828522,Europe,1.7
+Switzerland,2023,894867,Europe,8.01
+Switzerland,2024,936738,Europe,4.68
+Switzerland,2025,947125,Europe,1.11
+Syria,2020,60043,Asia,0.0
+Taiwan,2020,676861,Asia,0.0
+Taiwan,2021,776965,Asia,14.79
+Taiwan,2022,765624,Asia,-1.46
+Taiwan,2023,757335,Asia,-1.08
+Taiwan,2024,782441,Asia,3.32
+Taiwan,2025,804889,Asia,2.87
+Tajikistan,2020,8134,Asia,0.0
+Tajikistan,2021,8934,Asia,9.84
+Tajikistan,2022,10493,Asia,17.45
+Tajikistan,2023,11854,Asia,12.97
+Tajikistan,2024,13544,Asia,14.26
+Tajikistan,2025,14836,Asia,9.54
+Tanzania,2020,63373,Africa,0.0
+Tanzania,2021,67964,Africa,7.24
+Tanzania,2022,74173,Africa,9.14
+Tanzania,2023,79138,Africa,6.69
+Tanzania,2024,80171,Africa,1.31
+Tanzania,2025,85977,Africa,7.24
+Thailand,2020,500462,Asia,0.0
+Thailand,2021,506195,Asia,1.15
+Thailand,2022,495645,Asia,-2.08
+Thailand,2023,515906,Asia,4.09
+Thailand,2024,526411,Asia,2.04
+Thailand,2025,546224,Asia,3.76
+Timor-Leste,2020,2163,Unknown,0.0
+Timor-Leste,2021,3625,Unknown,67.59
+Timor-Leste,2022,3209,Unknown,-11.48
+Timor-Leste,2023,2080,Unknown,-35.18
+Timor-Leste,2024,2015,Unknown,-3.12
+Timor-Leste,2025,2115,Unknown,4.96
+Togo,2020,7400,Africa,0.0
+Togo,2021,8338,Africa,12.68
+Togo,2022,8144,Africa,-2.33
+Togo,2023,9081,Africa,11.51
+Togo,2024,9776,Africa,7.65
+Togo,2025,10023,Africa,2.53
+Tonga,2020,503,Oceania,0.0
+Tonga,2021,520,Oceania,3.38
+Tonga,2022,515,Oceania,-0.96
+Tonga,2023,512,Oceania,-0.58
+Tonga,2024,539,Oceania,5.27
+Tonga,2025,568,Oceania,5.38
+Trinidad and Tobago,2020,20991,North America,0.0
+Trinidad and Tobago,2021,24177,North America,15.18
+Trinidad and Tobago,2022,28510,North America,17.92
+Trinidad and Tobago,2023,25489,North America,-10.6
+Trinidad and Tobago,2024,25524,North America,0.14
+Trinidad and Tobago,2025,26467,North America,3.69
+Tunisia,2020,42494,Africa,0.0
+Tunisia,2021,46813,Africa,10.16
+Tunisia,2022,44596,Africa,-4.74
+Tunisia,2023,48541,Africa,8.85
+Tunisia,2024,53063,Africa,9.32
+Tunisia,2025,56291,Africa,6.08
+Turkey,2020,717114,Asia,0.0
+Turkey,2021,807893,Asia,12.66
+Turkey,2022,905800,Asia,12.12
+Turkey,2023,1130062,Asia,24.76
+Turkey,2024,1322405,Asia,17.02
+Turkey,2025,1437406,Asia,8.7
+Turkmenistan,2020,52385,Asia,0.0
+Turkmenistan,2021,60934,Asia,16.32
+Turkmenistan,2022,77963,Asia,27.95
+Turkmenistan,2023,77876,Asia,-0.11
+Turkmenistan,2024,82515,Asia,5.96
+Turkmenistan,2025,89054,Asia,7.92
+Tuvalu,2020,52,Oceania,0.0
+Tuvalu,2021,62,Oceania,19.23
+Tuvalu,2022,61,Oceania,-1.61
+Tuvalu,2023,63,Oceania,3.28
+Tuvalu,2024,65,Oceania,3.17
+Tuvalu,2025,65,Oceania,0.0
+Uganda,2020,37889,Africa,0.0
+Uganda,2021,42805,Africa,12.97
+Uganda,2022,47276,Africa,10.45
+Uganda,2023,51934,Africa,9.85
+Uganda,2024,56453,Africa,8.7
+Uganda,2025,64277,Africa,13.86
+Ukraine,2020,156566,Europe,0.0
+Ukraine,2021,199835,Europe,27.64
+Ukraine,2022,161987,Europe,-18.94
+Ukraine,2023,178763,Europe,10.36
+Ukraine,2024,190426,Europe,6.52
+Ukraine,2025,205742,Europe,8.04
+United Arab Emirates,2020,349473,Asia,0.0
+United Arab Emirates,2021,415179,Asia,18.8
+United Arab Emirates,2022,502732,Asia,21.09
+United Arab Emirates,2023,514130,Asia,2.27
+United Arab Emirates,2024,537079,Asia,4.46
+United Arab Emirates,2025,548598,Asia,2.14
+United Kingdom,2020,2698705,Europe,0.0
+United Kingdom,2021,3144079,Europe,16.5
+United Kingdom,2022,3125404,Europe,-0.59
+United Kingdom,2023,3371118,Europe,7.86
+United Kingdom,2024,3644636,Europe,8.11
+United Kingdom,2025,3839180,Europe,5.34
+United States,2020,21354125,North America,0.0
+United States,2021,23681175,North America,10.9
+United States,2022,26006900,North America,9.82
+United States,2023,27720725,North America,6.59
+United States,2024,29184900,North America,5.28
+United States,2025,30507217,North America,4.53
+Uruguay,2020,53557,South America,0.0
+Uruguay,2021,60742,South America,13.42
+Uruguay,2022,70600,South America,16.23
+Uruguay,2023,77997,South America,10.48
+Uruguay,2024,80961,South America,3.8
+Uruguay,2025,79731,South America,-1.52
+Uzbekistan,2020,66443,Asia,0.0
+Uzbekistan,2021,77340,Asia,16.4
+Uzbekistan,2022,90125,Asia,16.53
+Uzbekistan,2023,102634,Asia,13.88
+Uzbekistan,2024,114962,Asia,12.01
+Uzbekistan,2025,132484,Asia,15.24
+Vanuatu,2020,1008,Oceania,0.0
+Vanuatu,2021,921,Oceania,-8.63
+Vanuatu,2022,1072,Oceania,16.4
+Vanuatu,2023,1158,Oceania,8.02
+Vanuatu,2024,1206,Oceania,4.15
+Vanuatu,2025,1267,Oceania,5.06
+Venezuela,2020,42838,South America,0.0
+Venezuela,2021,56615,South America,32.16
+Venezuela,2022,89013,South America,57.23
+Venezuela,2023,102377,South America,15.01
+Venezuela,2024,119808,South America,17.03
+Venezuela,2025,108511,South America,-9.43
+Vietnam,2020,346310,Asia,0.0
+Vietnam,2021,370076,Asia,6.86
+Vietnam,2022,411068,Asia,11.08
+Vietnam,2023,433008,Asia,5.34
+Vietnam,2024,459472,Asia,6.11
+Vietnam,2025,490970,Asia,6.86
+Palestine,2020,15532,Asia,0.0
+Palestine,2021,18109,Asia,16.59
+Palestine,2022,19166,Asia,5.84
+Palestine,2023,17848,Asia,-6.88
+Yemen,2020,20220,Asia,0.0
+Yemen,2021,19394,Asia,-4.09
+Yemen,2022,23534,Asia,21.35
+Yemen,2023,19412,Asia,-17.52
+Yemen,2024,19101,Asia,-1.6
+Yemen,2025,17401,Asia,-8.9
+Zambia,2020,18138,Africa,0.0
+Zambia,2021,22096,Africa,21.82
+Zambia,2022,29164,Africa,31.99
+Zambia,2023,27578,Africa,-5.44
+Zambia,2024,26326,Africa,-4.54
+Zambia,2025,28910,Africa,9.82
+Zimbabwe,2020,26878,Africa,0.0
+Zimbabwe,2021,36016,Africa,34.0
+Zimbabwe,2022,32613,Africa,-9.45
+Zimbabwe,2023,35144,Africa,7.76
+Zimbabwe,2024,35224,Africa,0.23
+Zimbabwe,2025,38172,Africa,8.37
