@@ -37,22 +37,9 @@ The dashboard provides insights into:
 ---
 
 ## 📷 Dashboard Preview
+![Dashboard Overview](Dashboard.png)
+![Dashboard2 Overview](Dashboard2.png) 
 
-(Add screenshots here)
-
----
-
-## 📁 Project Structure
-
-(Add folder structure)
-
----
-
-## 🎥 Dashboard Demo
-
-(Add video)
-
----
 
 ## 📌 Skills Demonstrated
 
